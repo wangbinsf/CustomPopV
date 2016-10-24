@@ -1,2 +1,2 @@
 # CustomPopV
-![](/Users/wangbinbin/Desktop/test-git/CustomPopV/preview.gif)
+![](https://github.com/wangbinsf/CustomPopV/blob/master/preview.gif)
